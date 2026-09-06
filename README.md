@@ -19,17 +19,16 @@ I'm comfortable working beyond the application code itself: designing database s
 * **Engineering:** Debugging, refactoring, testing, API testing, working with existing codebases
 * **Currently learning:** Rust
 
-### Connect
-
-* [LinkedIn](https://www.linkedin.com/in/mohammad-omer-58148b201)
-* [X](https://x.com/GatoGato111566)
-
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+   <img src="https://img.shields.io/badge/Rust-DA3B8A?logo=rust&logoColor=fff&style=for-the-badge" alt="rust Badge">
 <img src="https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff&style=for-the-badge" alt="tmux">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge" alt="Arch Linux">
 <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" alt="Neovim"/>
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge" alt="GNU Bash Badge">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge" alt="Arch Linux">
 <img src="https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff&style=for-the-badge" alt="LinuxServer Badge">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge" alt="GNU Bash Badge">
 </p>
 
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/mohamed-seedahmed-58148b201/)
